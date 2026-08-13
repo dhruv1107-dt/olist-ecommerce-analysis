@@ -21,3 +21,6 @@ DuckDB · Python · pandas · matplotlib
 
 ## Data Source
 [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+## Analysis Charts
+![Olist Analysis](olist_analysis.png)
