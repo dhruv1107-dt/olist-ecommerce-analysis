@@ -3,3 +3,5 @@
 *.wal
 venv/
 __pycache__/
+
+.claude/
